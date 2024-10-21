@@ -1,0 +1,2 @@
+shazam="Thunder !"
+print(shazam)
